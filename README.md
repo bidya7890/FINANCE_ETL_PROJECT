@@ -61,6 +61,8 @@ Methodology:
 
    ![Screenshot 2024-11-13 005859](https://github.com/user-attachments/assets/a8ea6574-757b-437d-acc6-6021c91f43b3)
 
+   ---->>>> dbt init, dbt debug, dbt run 
+
    
    ![Screenshot 2024-11-13 010945](https://github.com/user-attachments/assets/4e00936c-d4b0-4a9b-9872-8f1c36b69998)
 
